@@ -6,7 +6,7 @@
   
 <h2>  Certifications </h2>
 
-- [Java Programming Certificate from Broadway Infosys Nepal] ()
+- [Java Programming by Broadway Infosys](https://verify.broadwayinfosys.com/certificate-verification-code/eyJpdiI6InpiL0MvSE0yczZad3FtNWhDdE5Bb3c9PSIsInZhbHVlIjoibysxK3RLTHF2WWNuSmdjU1dOSWpXQT09IiwibWFjIjoiMzYxNjY2OWU4ZTRiODI5MDFjYjExMDM0NDE2NTg5MzMwYmY1YzgzYTA4NjEzMzMyZGJiZjMzZDM0M2M1ZDU4YyIsInRhZyI6IiJ9)
 
 
 <h2> 🤳 Connect with me:</h2>
