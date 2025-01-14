@@ -20,6 +20,6 @@
 
 
 [instagram]: https://www.instagram.com/ashriyaa.x_x/
-[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/ashriya-t-a77628239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[linkedin]: https://www.linkedin.com/in/ashriya-t-a77628239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 
