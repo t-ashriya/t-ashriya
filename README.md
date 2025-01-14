@@ -6,7 +6,7 @@
   
 <h2>  Certifications </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Java Programming Certificate from Broadway Infosys Nepal] ()
 
 
 <h2> 🤳 Connect with me:</h2>
