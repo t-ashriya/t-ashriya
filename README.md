@@ -19,7 +19,7 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/ashriyaa.x_x/
+
 [linkedin]: https://www.linkedin.com/in/ashriya-t-a77628239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 
