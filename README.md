@@ -1,5 +1,5 @@
 ## 💫 About Me:
-## Hi, I'm Ashriya! 👋<br><br>🎓 **Computer Science student at UMass Boston**  <br>🔭 **Aspiring Data Scientist | Web Developer | AI Enthusiast**  <br>🌱 Currently learning: Machine Learning, Full-Stack Web Dev  <br>📍 Based in Boston, MA <br>😉Fun fact: I am a foodie!<br>📧 Contact: tuladharashriya22@gmail.com | ashriya.tuladhar001@umb.edu<br>
+## Hi, I'm Ashriya! 👋<br><br>🎓 **Computer Science student at UMass Boston**  <br>🔭 **Aspiring Data Scientist | Web Developer | AI Enthusiast**  <br>🌱 Currently learning: Data Science/Machine Learning, Full-Stack Web Dev  <br>📍 Based in Boston, MA <br>😉Fun fact: I am a foodie!<br>📧 Contact: tuladharashriya22@gmail.com | ashriya.tuladhar001@umb.edu<br>
 
 
 ## 🌐 Connect with me:
