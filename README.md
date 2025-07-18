@@ -24,7 +24,7 @@ I bring experience in **EDA, machine learning, and front-end development**.
 # Open source projects:
 ## 💻 Web Development Projects
 
-- [Basic Personal Portfolio Website](https://github.com/t-ashriya/portfolio-site) – Responsive HTML/CSS/JS portfolio site.
+- [Basic Personal Portfolio Website](https://github.com/t-ashriya/index1) – Responsive HTML/CSS/JS portfolio site.
 
 
 ---
