@@ -1,4 +1,5 @@
-[![](https://visitcount.itsvg.in/api?id=t-ashriya&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://visitcount.itsvg.in/api?id=t-ashriya&icon=0&color=0)
+
 # Hi, I'm Ashriya! 👋
 <br><br>🎓 **Computer Science student at UMass Boston**  <br>🔭 **Aspiring Data Scientist/ Analyst | Web Developer | AI Enthusiast**  <br>🌱 Currently learning: Data Science/Machine Learning+ AI concepts, Full-Stack Web Dev  <br>📍 Based in Boston, MA <br>😉Fun fact: I am a foodie!<br>📧 Contact: tuladharashriya22@gmail.com | ashriya.tuladhar001@umb.edu<br>
 
