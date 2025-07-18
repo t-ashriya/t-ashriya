@@ -26,7 +26,9 @@ I bring experience in **EDA, machine learning, and front-end development**.
 
 - [Dummy Personal Portfolio Website](https://github.com/t-ashriya/index1) – Responsive basic HTML/CSS/JS portfolio site.
 
+## 📊 Data Science & Analytics Projects
 
----
+- BTAI ML projects - jupyter notebooks (private atm)
+- End to End Business Intelligence project
 
 
