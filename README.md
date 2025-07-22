@@ -29,7 +29,7 @@ I bring experience in **EDA, machine learning, and front-end development**.
 
 - [BreakthroughTechAI lab projects](https://github.com/t-ashriya/BreakthroughTechAI-labs) - jupyter notebooks (private atm)
 - [End to End Business Intelligence project](https://github.com/t-ashriya/PowerBI_project)
-- [Airbnb data analysis]((https://github.com/t-ashriya/Airbnb-analysis) 
+- [Airbnb data analysis](https://github.com/t-ashriya/Airbnb-analysis) 
 
 # 📜 Certifications:
 
