@@ -27,7 +27,7 @@ I bring experience in **EDA, machine learning, and front-end development**.
 
 ## 📊 Data Science & Analytics Projects
 
-- BTAI ML projects - jupyter notebooks (private atm)
+- [BreakthroughTechAI lab projects](https://github.com/t-ashriya/BreakthroughTechAI-labs) - jupyter notebooks (private atm)
 - End to End Business Intelligence project
 
 # 📜 Certifications:
