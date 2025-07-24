@@ -29,7 +29,7 @@ I bring experience in **EDA, machine learning, and front-end development**.
 
 - [BreakthroughTechAI lab projects](https://github.com/t-ashriya/BreakthroughTechAI-labs) - jupyter notebooks (private atm)
 - [End to End Business Intelligence project](https://github.com/t-ashriya/PowerBI_project)
-- [Train Ride analysis](https://github.com/t-ashriya/Train_Ride_analysis) 
+- [Train Ride analysis](https://github.com/t-ashriya/Train_Rides_Analysis) 
 
 # 📜 Certifications:
 
