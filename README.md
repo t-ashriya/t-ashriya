@@ -35,5 +35,5 @@ I bring experience in **EDA, machine learning, and front-end development**.
 
 - [Java Programming by Broadway Infosys](https://broadwayinfosys.com/certificate-verification-code/eyJpdiI6IjN3RDZ5RDFQdHFreDErYUdXbGJkNWc9PSIsInZhbHVlIjoiU3U0MEtMWloxYkdvMHprWnZIT3Nodz09IiwibWFjIjoiMzkxODkzNTlhZDIyYzA2Y2U1MWI3ODJhOTU5OWI3ZGI5OTAxNzkxYjE0NTA5YjEzZWJiNDk5OTcwOTRmOTk3MiIsInRhZyI6IiJ9)
 
-- [Ecornell Python Bootcamp](https://github.com/t-ashriya/files/pb-bootcamp.pdf)
+- [Ecornell Python Bootcamp](https://github.com/t-ashriya/t-ashriya/blob/main/files/pb-bootcamp.pdf)
 
