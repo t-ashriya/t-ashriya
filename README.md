@@ -29,7 +29,7 @@ I bring experience in **EDA, machine learning, and front-end development**.
 
 - [BreakthroughTechAI lab projects](https://github.com/t-ashriya/BreakthroughTechAI-labs) 
 - [End to End Business Intelligence project](https://github.com/t-ashriya/PowerBI_project)
-- [BTTAI LAB 8 COLLABORATION PROJECT](https://github.com/ninapappas/BTT-ML-Project)
+- [BTTAI Predicting Education level - Census Data](https://github.com/ninapappas/BTT-ML-Project)
 
 # 📜 Certifications:
 
