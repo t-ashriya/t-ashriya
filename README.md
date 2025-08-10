@@ -1,7 +1,7 @@
 # Hi, I'm Ashriya! 👋 [![Visitor Badge](https://komarev.com/ghpvc/?username=t-ashriya&style=flat-square)](https://github.com/t-ashriya)
 
 
-<br><br>🎓 **Computer Science student at UMass Boston**  <br>🔭 **Aspiring Data Analyst / Scientist| CS/AI Enthusiast**  <br>🌱 Currently learning: Data Science/Machine Learning+ AI concepts, Web Development  <br>📍 Based in Boston, MA <br>😉Fun fact: I am a foodie!<br>📧 Contact: tuladharashriya22@gmail.com | ashriya.tuladhar001@umb.edu<br>
+<br><br>🎓 **Computer Science student at UMass Boston**  <br>🔭 **Aspiring Data Analyst / Data Scientist| CS/AI Enthusiast**  <br>🌱 Currently learning: Data Science/Machine Learning+ AI concepts, Web Development  <br>📍 Based in Boston, MA <br>😉Fun fact: I am a foodie!<br>📧 Contact: tuladharashriya22@gmail.com | ashriya.tuladhar001@umb.edu<br>
 
 ## 🧠 About Me
 
