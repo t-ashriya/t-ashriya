@@ -11,7 +11,7 @@ I’m motivated by understanding how data-driven and AI-enabled systems influenc
 
 My background in computer science provides a strong foundation in programming, statistics, machine learning, and analytical thinking, which I apply to data-driven and AI-enabled problems. I value clear, interpretable analysis and thoughtful reasoning alongside technical rigor. I’m currently  **Break Through Tech AI Fellow**, and will be working on impactful AI projects with mentors from **MIT and Cornell Tech**.
 
-I bring experience in **EDA, machine learning, and front-end development**.
+I have experience with exploratory **data analysis, machine learning, and communicating data insights into user-facing tools**.
 
 
 # 🌐 Connect with me:
