@@ -24,9 +24,10 @@ I bring experience in **EDA, machine learning, and front-end development**.
 
 ## 📊 Data Science/Analysis Projects
 
-- [BreakthroughTechAI lab projects](https://github.com/t-ashriya/BreakthroughTechAI-labs) 
-- [End to End Business Intelligence project](https://github.com/t-ashriya/PowerBI_project)
-- [BTTAI Predicting Education level - Census Data](https://github.com/ninapappas/BTT-ML-Project)
+- [BBC News AI Agent- categorization, summarization models + chatbot agent]()
+- [Predicting Education level - Census Data](https://github.com/ninapappas/BTT-ML-Project)
+- [BreakthroughTechAI lab projects](https://github.com/t-ashriya/BreakthroughTechAI-labs)
+
 
 # 📜 Certifications:
 
