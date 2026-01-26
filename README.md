@@ -1,17 +1,17 @@
 # Hi, I'm Ashriya! 👋 [![Visitor Badge](https://komarev.com/ghpvc/?username=t-ashriya&style=flat-square)](https://github.com/t-ashriya)
 
 
-<br><br>🎓 **Computer Science student at UMass Boston**  <br>📊 Focused on **Data Science, Data Analysis, and Applied AI**  <br> 🧠  Interested in human-centered, data-informed product decisions   <br>📍 Based in Boston, MA <br>📧 Contact: tuladharashriya22@gmail.com | ashriya.tuladhar001@umb.edu<br>
+<br><br>🎓 **Computer Science student at UMass Boston**  <br>📊 Focused on **Data and Applied AI**  <br> 🧠  Interested in human-centered, data-informed technology and products <br>📧 Contact: tuladharashriya22@gmail.com | ashriya.tuladhar001@umb.edu<br>
 
 ## About Me
 
-I’m a Computer Science student focused on data science, data analysis, and applied AI, with a strong interest in how technology shapes human experience, data-driven decisions, and real-world impact.
+I’m a Computer Science student focused on data and applied AI.
 
-I’m motivated by understanding how data-driven and AI-enabled systems influence user behavior, inform decision-making, and create tradeoffs that metrics alone don’t fully capture. I see data science as a bridge between technical systems, analytical insight, and human outcomes.
+I’m motivated by understanding how data-driven and AI-enabled systems influence user behavior, inform decision-making, and create tradeoffs that metrics alone don’t fully capture. I see data as a bridge between technical systems, analytical insight, and human outcomes.
 
-My background in computer science provides a strong foundation in programming, statistics, machine learning, and analytical thinking, which I apply to data-driven and AI-enabled problems. I value clear, interpretable analysis and thoughtful reasoning alongside technical rigor. I’m currently  **Break Through Tech AI Fellow**, and will be working on impactful AI projects with mentors from **MIT and Cornell Tech**.
+My background in computer science provides a strong foundation in programming, statistics, machine learning, and analytical thinking, which I apply to data-driven and AI-enabled problems. I value clear, interpretable analysis and thoughtful reasoning alongside technical rigor. I’m currently  **Break Through Tech AI Fellow**, and am working on impactful AI projects with mentors from **MIT and Cornell Tech**.
 
-I have experience with exploratory **data analysis, machine learning, and communicating data insights into user-facing tools**.
+I have experience with exploratory **data analysis and Applied Data Science & AI**.
 
 
 # 🌐 Connect with me:
