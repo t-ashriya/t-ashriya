@@ -71,7 +71,7 @@ I have experience with exploratory **data analysis and Applied Data Science & AI
 
 - [BBC News AI Agent- categorization, summarization models + chatbot agent](https://github.com/BTTAI-News-AI-Agent/News-AI-Agent)
 - [Predicting Education level - Census Data](https://github.com/ninapappas/BTT-ML-Project)
-- [BreakthroughTechAI lab projects](https://github.com/t-ashriya/BreakthroughTechAI-labs)
+- [Machine Learning projects](https://github.com/t-ashriya/BreakthroughTechAI-labs)
 
 
 # 📜 Certifications:
