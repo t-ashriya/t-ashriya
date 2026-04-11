@@ -48,7 +48,7 @@ I have experience with exploratory **data analysis and Applied Data Science & AI
 
 ---
 
-### 🧩 Programming / Computer Science
+### Programming / Computer Science
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
@@ -56,7 +56,7 @@ I have experience with exploratory **data analysis and Applied Data Science & AI
 
 ---
 
-### 🌐 User-Facing & Web Technologies
+### User-Facing & Web Technologies
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
@@ -67,10 +67,10 @@ I have experience with exploratory **data analysis and Applied Data Science & AI
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](#)
 
 
-# 📄 Resume:
-## You can view or download my resume [here](files/Resume_26.pdf)
+# Resume:
+## You can view or download my resume [here](https://github.com/t-ashriya/t-ashriya/blob/b41b02be4e0d6955632abfc81d8cb85a24fd7713/files/resume26.pdf)
 
-# 🚀Open source projects:
+# Open source projects:
 
 - [BBC News AI Agent- categorization, summarization models + chatbot agent](https://github.com/BTTAI-News-AI-Agent/News-AI-Agent)
 - [Predicting Education level - Census Data](https://github.com/ninapappas/BTT-ML-Project)
