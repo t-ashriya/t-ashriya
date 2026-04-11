@@ -68,7 +68,7 @@ I have experience with exploratory **data analysis and Applied Data Science & AI
 
 
 # 📄 Resume:
-## You can view or download my resume [here](https://github.com/t-ashriya/t-ashriya/blob/main/files/Ashriya%20Tuladhar-%20Resume.pdf)
+## You can view or download my resume [here](files/Resume_26.pdf)
 
 # 🚀Open source projects:
 
